@@ -1,0 +1,9 @@
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\bin\Release\AutoSave.exe
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\bin\Release\AutoSave.pdb
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\bin\Release\AutoSave.xml
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.Form1.resources
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.Resources.resources
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.vbproj.GenerateResource.Cache
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.exe
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.xml
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Release\AutoSave.pdb
