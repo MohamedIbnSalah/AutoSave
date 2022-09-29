@@ -1,0 +1,3 @@
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Debug\AutoSave.Form1.resources
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Debug\AutoSave.Resources.resources
+C:\Users\Salah\Desktop\apps\AutoSave\AutoSave\AutoSave\obj\x86\Debug\AutoSave.vbproj.GenerateResource.Cache
